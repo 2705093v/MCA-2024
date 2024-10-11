@@ -6,3 +6,4 @@ https://musescore.com/user/3541/scores/326516?share=copy_link
 The MusicXML file from this week is included in the Week 3 folder to keep both the versions organised, and the same is true for Week 2.
 
 The differences between MEI and XML have been inserted below for easy access to reference later on:
+MEI included body tags, and was more similar to HTML. MEI has significantly less lines in the code, as MEI condenses things a bit. Music XML has everything on its own line for the most part, but MEI has multiple elements on one line. MEI gives each note an ID, whereas MusicXML does not. This allows you to find each individual unique note, even if it, for example, it a quarter note that is the exact same pitch at a point in the song that has been repeated.
