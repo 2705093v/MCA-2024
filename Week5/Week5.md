@@ -2,7 +2,7 @@
 Artists
 Name of Song
 Album that it's on
-Composer
+Composer <composer>
 Genre/Subgenre
 Date of Publication
 Lyrics?
