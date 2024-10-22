@@ -1,8 +1,8 @@
 # Metadata Categories
 Artists
-Name of Song
-Album that it's on
-<br>Composer composer
-Genre/Subgenre
-Date of Publication
-Lyrics?
+<br>Name of Song
+<br>Album that it's on
+<br>Composer tag=composer
+<br>Genre/Subgenre
+<br>Date of Publication
+<br>Lyrics?
