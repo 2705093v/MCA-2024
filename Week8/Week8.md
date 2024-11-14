@@ -14,10 +14,12 @@ These three tracks are very different, but all three are vocal jazz standards th
 | Genre  | Ballad (jazz)  | Bossa Nova (jazz)  | Swing (jazz)  |
 | Source  | Youtube  | Youtube  | Youtube  |
 | File/audio Format  | mp3  | mp3  | mp3  |
-| Number of channels  |   | Content Cell  | Content Cell  |
-| Sample Rate  |  | Content Cell  | Content Cell  |
-| Bits per Second  |  | Content Cell  | Content Cell  |
+| Number of channels  | 2  | 2 | 2 |
+| Sample Rate  | 48000 | 48000 | 48000 |
+| Bits per Second  | 32000 | 32000 | 32000 |
 | Duration  | 4:30  | 3:14  | 4:15  |
+
+I wasunable to find a downloadable recording of any of these songs for free, and it seemed to be the same for all other songs I could find from the Real Vocal Book. In order to have a file, I had to use a converter to download it from YouTube, which is, I imagine, why the sample rate, bits per second, and channels are all the same. This is unfortunate, but the only choice for my theme.
 
 # But Not for Me Waveform and Spectrogram
 
@@ -34,3 +36,4 @@ These three tracks are very different, but all three are vocal jazz standards th
 ![idmat](https://github.com/user-attachments/assets/49f1acbe-bc6b-4651-bb5c-7eb594a9437b)
 ![dontmeanathingwave](https://github.com/user-attachments/assets/b7507135-91ce-4e05-b356-f25e3b9ed0ba)
 
+A time-frequency spectrogram is able to communicate the instruments being played and the intensity of the song more efficently than the wave-form based analysis. In 'It Don't Mean A Thing', a very intense song, Ella Fitzgerald is scatting over multiple instruments. In the waveform, you can see that this gets slightly louder at the end of the song, but you might not understand why until looking at the time-frequency spectrogram. The time-frequency spectrogram, by looking at the brightness and frequencies of the logs, shows if there are a lot of intruments and singers performing loudly or intensely. In comparing 'It Don't Mean A Thing' and 'But Not For Me', the former's spectrogram is filled with orange. The latter's spectrogram, does have some orange, but not to the degree of 'It Don't Mean A Thing', and it is not as consistent. This is because 'But Not For Me' is a much calmer song, that has some portions with only one or two instruments playing, seen by the periods that have less orange in them. In the wave-form, the waves fluctuate throughout the song, but it is not clear why. In the latter half of 'But Not For Me' instruments start to be layered over each other progressively, and we see a progressive expansion of the spectrogram's frequencies. 'The Girl From Ipanema', while not an intense song, is the Frank Sinatra version, meaning it is played by a big band - so, many more instruments than the other two songs - which is why the spectrogram is very orange across a larger range of frequencies.
