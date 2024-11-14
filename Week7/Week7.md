@@ -10,3 +10,7 @@ Per the lab, a second version of the MEI file with updated metadata has been cre
 <br>I have put this in a notes statement in the code since there is so much information to convey, it is easiest read in a little note, not spread out across the code or into separate lines of code for each subgenre. I am note sure if this needs to be in a work list in the MEI head since we have not discussed this in class before (and I was absent for this lab), but I do know that note statements, title, key, and other elements can go under the work tag in the work list. Work list is listed as an optional element in an MEI header, which is why I have decided not to put it in, also because I am unsure of how to or where to use it. I am putting the notes statement of genre underneath the title statement where i had previously put a different notes statement. I think this is the best place to put it since it is not included with publishers and the like, but is grouped closer with the metadata in the title statement which is similar to the kind of metadata of subgenres that I will be putting in this note statement.
 
 ## Licensing Data?
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
+'This license requires that reusers give credit to the creator. It allows reusers to distribute, remix, adapt, and build upon the material in any medium or format, for noncommercial purposes only. If others modify or adapt the material, they must license the modified material under identical terms.'
+
+This is explained in the code
