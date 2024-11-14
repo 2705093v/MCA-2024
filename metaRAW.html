@@ -26,7 +26,7 @@
   <script>
     // Get, parse, and show TEI data
     var CETEIcean = new CETEI()
-    CETEIcean.getHTML5("data/example2.mei", function(data) {
+    CETEIcean.getHTML5("data/autumnleaves.mei", function(data) {
       document.getElementById("TEI").appendChild(data)
     })
     // Get, parse and show MEI header data
@@ -36,7 +36,7 @@
         mei: "http://www.music-encoding.org/ns/mei"
       }
     })
-    CETEI4MEI.getHTML5("data/example2.mei", function(data) {
+    CETEI4MEI.getHTML5("data/autumnleaves.mei", function(data) {
       // get header
       var meiHead = data.querySelector('mei-meiHead')
       document.getElementById("MEImeta").appendChild(meiHead)
@@ -50,7 +50,7 @@
         scale: 50,
         adjustPageHeight: true
     })
-    fetch("data/example2.mei").then(function( response ) {
+    fetch("data/autumnleaves.mei").then(function( response ) {
         response.text().then(function( data ) {
           var svg = vrvToolkit.renderData(data, {})
           document.getElementById('MEI').innerHTML = svg
