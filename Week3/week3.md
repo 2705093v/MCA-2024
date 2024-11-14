@@ -12,3 +12,4 @@ Week 3's version of the mei file has been preserved in the week 3 folder, as has
 
 The code for the styling of the Verovio page in github has been changed in order to make the html page work. The code for styling has been borrowed from IvayloGeorgiev24, who was one of the examples listed on the Moodle Page. The code that has been borrowed is shown below:
 ![verovio code](https://github.com/user-attachments/assets/a3318e44-0aa1-4b9f-9e05-a8eab558a4bf)
+<br>The rest of the code is from the code we were originally given.
