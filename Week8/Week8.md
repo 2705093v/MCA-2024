@@ -1,19 +1,36 @@
 # Three Tracks: But Not For Me, The Girl from Ipanema, It Don't Mean A Thing
 These three tracks are very different, but all three are vocal jazz standards that are present in the Real Book Vocal Edition. But Not For Me is a ballad, The Girl From Impanema is a bossa, and It Don't Mean a Thing is a classic swing song. These three songs could not be more different in the styling of their songs, and have been sun by countless singers.
-The versions of the songs that have been downloaded to transform into a spectrogram are:
-But Not For Me - Harry Connick Jr.
-The Girl from Ipanema - Frank Sinatra and Antonio Carlos Jobim
-It Don't Mean A Thing - Ella Fitzgerald
+<br>
+<br>The versions of the songs that have been downloaded to transform into a spectrogram are:
+<br>But Not For Me - Harry Connick Jr.
+<br>The Girl from Ipanema - Frank Sinatra and Antonio Carlos Jobim
+<br>It Don't Mean A Thing - Ella Fitzgerald
 
 | Metadata  | But Not For Me | The Girl From Ipanema  | It Don't Mean A Thing |
 | ------------- | ------------- | ------------- | ------------- |
-| Artist  | Content Cell  | Content Cell  | Content Cell  |
-| Composer  | Content Cell  | Content Cell  | Content Cell  |
-| Copyright Info  | Content Cell  | Content Cell  | Content Cell  |
-| Genre  | Content Cell  | Content Cell  | Content Cell  |
-| Source  | Content Cell  | Content Cell  | Content Cell  |
-| File/audio Format  | Content Cell  | Content Cell  | Content Cell  |
-| Number of channels  | Content Cell  | Content Cell  | Content Cell  |
-| Sample Rate  | Content Cell  | Content Cell  | Content Cell  |
-| Bits per Second  | Content Cell  | Content Cell  | Content Cell  |
-| Duration  | Content Cell  | Content Cell  | Content Cell  |
+| Artist  | Harry Connick Jr.  | Frank Sinatra and Antonio Carlos Jobim  | Ella Fitzgerald  |
+| Composer  | George Gershwin and Ira Gershwin  | Antônio Carlos Jobim  | Duke Ellington  |
+| Copyright Info  | can't find any  | Copyrights were assigned to Norman Gibel by Universal Studios, the publisher. This was disputed in the future but was not changed. | Owned by EMI Mills Music Inc.?  |
+| Genre  | Ballad (jazz)  | Bossa Nova (jazz)  | Swing (jazz)  |
+| Source  | Youtube  | Youtube  | Youtube  |
+| File/audio Format  | mp3  | mp3  | mp3  |
+| Number of channels  |   | Content Cell  | Content Cell  |
+| Sample Rate  |  | Content Cell  | Content Cell  |
+| Bits per Second  |  | Content Cell  | Content Cell  |
+| Duration  | 4:30  | 3:14  | 4:15  |
+
+# But Not for Me Waveform and Spectrogram
+
+![nfm](https://github.com/user-attachments/assets/7da35a8e-21ee-4603-82f4-4f2b03a17cf5)
+![notformewave](https://github.com/user-attachments/assets/0210ad14-e1e3-4562-9a37-b3d12320ad23)
+
+# Girl From Ipanema Waveform and Spectrogram
+
+![gfi](https://github.com/user-attachments/assets/a5b8646a-80c0-4cb5-9c8f-61e5ee022e0f)
+![ipanema](https://github.com/user-attachments/assets/b7d4fd38-498c-4c52-ba97-22678a1fc709)
+
+# It Don't Mean A Thing
+
+![idmat](https://github.com/user-attachments/assets/49f1acbe-bc6b-4651-bb5c-7eb594a9437b)
+![dontmeanathingwave](https://github.com/user-attachments/assets/b7507135-91ce-4e05-b356-f25e3b9ed0ba)
+
