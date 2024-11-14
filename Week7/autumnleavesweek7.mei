@@ -20,6 +20,7 @@
          </titleStmt>
          <notesStmt>The genre of Autumn Leaves is jazz. It is a jazz standard that also fits in the folowing subgenres: smooth jazz, ballad, and french jazz. This list is not exhaustive, and other subgenres for Autumn Leaves could be argued.</notesStmt>
          <notesStmt>Sheet music converted to MEI file from MuseScore. The MuseScore sheet music was created by user DIM.</notesStmt>
+         <noteStmt>Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International is the license I have chosen for my coding. I would like attribution for my work and for it not to be used for commercial work. I am fine however, with people using my work as a starting point for theirs, to be able to alter it and build off of it. People must use the same CC License as me if they use my work.</notesStmt>
          <pubStmt>
         			<publisher>
           <corpName role="publisher" auth.uri="https://www.kuvo.org/stories-of-standards-autumn-leaves/#:~:text=The%20publishing%20rights%20to%20%E2%80%9CAutumn,jazz%20standard%20by%20Jazz%20Standards." auth="KUVO">MPL Communications</corpName>
