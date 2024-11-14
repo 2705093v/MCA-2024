@@ -1,8 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+    <link rel="stylesheet" type="text/css" href="index.css">
     <meta charset="utf-8">
-    <title>Verovio App demo</title>
+    <title>Weeks 2 and 3</title>
     <style>
     html, body {
         width: 100%;
@@ -23,7 +24,18 @@
     </style>
 </head>
 <body>
-    <div class="header">How to use the Verovio App</div>
+<div class="topnav">
+  <a href="index.html">Home</a>
+  <a href="verovio.html">Weeks 2&3</a>
+  <a href="Week_4_Lab/Week4_Data.html">Week 4</a>
+  <a href="Week_5_Lab/Week5.html">Week 5</a>
+  <a href="myMeta.html">Week 7</a>
+  <a href="Week_8_Lab/Week8_Data.html">Week 8</a>
+  <a href="Week_9_Lab/Week9_Data.html">Week 9</a>
+  <a href="Week_10_Lab/Week10.html">Week 10</a>
+</div>
+    <div class="el_center">
+    <div class="header">This is a rendition of my MEI file using Verovio</div></div>
     <div id="app">Verovio is loading...</div>
     <script type="module">
         import 'https://www.verovio.org/javascript/app/verovio-app.js';
@@ -36,7 +48,7 @@
         }
         
         // A MusicXML file
-        var file = 'data/autumnleaves.mei';
+        var file = 'data/ImagineDragonsRadioactiveScore.mei';
         // A MEI file
         //var file = 'https://www.verovio.org/editor/brahms.mei';
         
