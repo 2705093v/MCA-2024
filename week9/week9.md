@@ -46,3 +46,8 @@ Chromogram:
 
 ![butnotformechromohisto](https://github.com/user-attachments/assets/b99979fe-8684-4fe3-b4fe-d6ba0c59eb41)
 
+## Comparing the three histograms:
+![threechromohisto](https://github.com/user-attachments/assets/6445f262-b7ab-432d-8749-21bcc2adab30)
+From left to right: But Not For Me, It Don't Mean A Thing, The Girl From Ipanema
+
+Chromograms indicate pitch, and histograms are graphs that show the distribution of data, so I'm then assuming that the histogram of chromograms shows the distribtuion of pitch. In It Don't Mean A Thing, more than just the melody is being sung. In between the two times the melody is sung, Ella Fitzgerald scats, and the notes during this improvisation cover a large range of pitches. In But Not For Me, Harry Connick Jr. sings only the melody, which is fairly simple bar a few jumps in pitch for one of two notes. In The Girl From Ipanema, the backing on the track is a big band and the melody jumps around quite a bit througohut the song. Since the histograms for both The Girl From Ipanema and It Don't Mean a Thing are a lot wider, we can conclude from the histograms that both of those songs have a wider range of pitches than But Not For Me, a much smaller histogram.
