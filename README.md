@@ -4,8 +4,8 @@ Here you can find a guide to each week's write up and what documents or files yo
 | Week  | Files with this week |
 | ------------- | ------------- |
 | [Week 1](https://2705093v.github.io/MCA-2024/Week1/Week1.html) | No files, just write up. |
-| [Week 2](https://2705093v.github.io/MCA-2024/Week2/Week2.html) | fujhgjdfk |
-| [Week 3](https://2705093v.github.io/MCA-2024/Week3/week3.html) | fujhgjdfk |
+| [Week 2](https://2705093v.github.io/MCA-2024/Week2/Week2.html) | [Music XML for Autumn Leaves Week 2 Version](https://2705093v.github.io/MCA-2024/Week2/Autumn_Leaves_week_2.musicxml) |
+| [Week 3](https://2705093v.github.io/MCA-2024/Week3/week3.html) | [Music XML for Autumn Leaves Week 3 Version](https://2705093v.github.io/MCA-2024/Week3/Autumn_Leaves_in_C_week_3.musicxml) and [MEI Autumn Leaves](https://2705093v.github.io/MCA-2024/Week3/autumnleavesweek3.mei|
 | [Week 4](https://2705093v.github.io/MCA-2024/Week4/Week4.html) | fujhgjdfk |
 | [Week 5](https://2705093v.github.io/MCA-2024/Week5/Week5.html) | fujhgjdfk |
 | [Week 7](https://2705093v.github.io/MCA-2024/Week7/Week7.html) | fujhgjdfk |
