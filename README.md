@@ -1,6 +1,8 @@
 # Welcome to the homepage!
 ## Portfolio by 2705093v
 Here you can find a guide to each week's write up and what documents or files you can find in that week's write up. There is a link to each week's write up, and the documents/files will be linked too.
+| Week  | Files with this week |
+| ------------- | ------------- |
 | [Week 1](https://2705093v.github.io/MCA-2024/Week1/Week1.html) | No files, just write up. |
 | [Week 2](https://2705093v.github.io/MCA-2024/Week2/Week2.html) | fujhgjdfk |
 | [Week 3](https://2705093v.github.io/MCA-2024/Week3/week3.html) | fujhgjdfk |
