@@ -10,6 +10,10 @@ Here you can find a guide to each week's write up and what documents or files yo
 <br>[Week 8](https://2705093v.github.io/MCA-2024/Week8/Week8.html) | 
 <br>[Week 9](https://2705093v.github.io/MCA-2024/week9/week9.html) | 
 <br>[Week 10](https://2705093v.github.io/MCA-2024/Week10/week10.html) |
+<br> Here are the extra files outside of weekly labs that can be accessed:
+<br>[metaRAW](https://2705093v.github.io/MCA-2024/metaRAW.html)
+<br>[Verovio](https://2705093v.github.io/MCA-2024/verovio.html)
+<br>[Data Folder MEI File](https://2705093v.github.io/MCA-2024/data/autumnleaves.mei)
 <br>Since I used markdown for all of my labs, I did have some trouble at the end making sure that all appeared correctly format-wise. Luckily, I stumbled across a very helpful tool that allows you to write in markdown in an html file!
 This is why a line of code starting with script appears at the top of all of my html files if you look at the code. 
 ![scriptline](https://github.com/user-attachments/assets/3231c67b-befe-407d-b095-aa2c389918a9)
