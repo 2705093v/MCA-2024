@@ -12,6 +12,7 @@ Here you can find a guide to each week's write up and what documents or files yo
 | [Week 8](https://2705093v.github.io/MCA-2024/Week8/Week8.html) | fujhgjdfk |
 | [Week 9](https://2705093v.github.io/MCA-2024/week9/week9.html) | fujhgjdfk |
 | [Week 10](https://2705093v.github.io/MCA-2024/Week10/week10.html) | fujhgjdfk |
+
 <br> Here are the extra files outside of weekly labs that can be accessed:
 <br>[metaRAW](https://2705093v.github.io/MCA-2024/metaRAW.html)
 <br>[Verovio](https://2705093v.github.io/MCA-2024/verovio.html)
