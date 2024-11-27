@@ -1,5 +1,6 @@
 <script src="https://rawcdn.githack.com/oscarmorrison/md-page/master/md-page.js"></script><noscript>
 The notebook for week 10 can be accessed [here]()
+You can view the notebook without downloading it [here](https://nbviewer.org/urls/2705093v.github.io/MCA-2024/Week10/week10similarity.ipynb)
 ## Similarity matrix (from tasks 6.1 and 6.2):
 <br>Task 6.1:
 <br>![6 1 matrix](https://github.com/user-attachments/assets/bd796fbc-c9d9-4345-b9f2-6907ec1b9a92)
