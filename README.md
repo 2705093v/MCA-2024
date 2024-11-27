@@ -2,14 +2,14 @@
 ## Portfolio by 2705093v
 Here you can find a guide to each week's write up and what documents or files you can find in that week's write up. There is a link to each week's write up, and the documents/files will be linked too.
 <br>[Week 1](https://2705093v.github.io/MCA-2024/Week1/Week1.html) | No files, just write up. |
-<br>[Week 2](https://2705093v.github.io/MCA-2024/Week2/Week2.html) | 
-<br>[Week 3](https://2705093v.github.io/MCA-2024/Week3/week3.html) | 
-<br>[Week 4](https://2705093v.github.io/MCA-2024/Week4/Week4.html) | 
-<br>[Week 5](https://2705093v.github.io/MCA-2024/Week5/Week5.html) | 
-<br>[Week 7](https://2705093v.github.io/MCA-2024/Week7/Week7.html) | 
-<br>[Week 8](https://2705093v.github.io/MCA-2024/Week8/Week8.html) | 
-<br>[Week 9](https://2705093v.github.io/MCA-2024/week9/week9.html) | 
-<br>[Week 10](https://2705093v.github.io/MCA-2024/Week10/week10.html) |
+<br>[Week 2](https://2705093v.github.io/MCA-2024/Week2/Week2.html) | fujhgjdfk |
+<br>[Week 3](https://2705093v.github.io/MCA-2024/Week3/week3.html) | fujhgjdfk |
+<br>[Week 4](https://2705093v.github.io/MCA-2024/Week4/Week4.html) | fujhgjdfk |
+<br>[Week 5](https://2705093v.github.io/MCA-2024/Week5/Week5.html) | fujhgjdfk |
+<br>[Week 7](https://2705093v.github.io/MCA-2024/Week7/Week7.html) | fujhgjdfk |
+<br>[Week 8](https://2705093v.github.io/MCA-2024/Week8/Week8.html) | fujhgjdfk |
+<br>[Week 9](https://2705093v.github.io/MCA-2024/week9/week9.html) | fujhgjdfk |
+<br>[Week 10](https://2705093v.github.io/MCA-2024/Week10/week10.html) | fujhgjdfk |
 <br> Here are the extra files outside of weekly labs that can be accessed:
 <br>[metaRAW](https://2705093v.github.io/MCA-2024/metaRAW.html)
 <br>[Verovio](https://2705093v.github.io/MCA-2024/verovio.html)
