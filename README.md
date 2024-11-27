@@ -5,13 +5,13 @@ Here you can find a guide to each week's write up and what documents or files yo
 | ------------- | ------------- |
 | [Week 1](https://2705093v.github.io/MCA-2024/Week1/Week1.html) | No files, just write up. |
 | [Week 2](https://2705093v.github.io/MCA-2024/Week2/Week2.html) | [Music XML for Autumn Leaves Week 2 Version](https://2705093v.github.io/MCA-2024/Week2/Autumn_Leaves_week_2.musicxml) |
-| [Week 3](https://2705093v.github.io/MCA-2024/Week3/week3.html) | [Music XML for Autumn Leaves Week 3 Version](https://2705093v.github.io/MCA-2024/Week3/Autumn_Leaves_in_C_week_3.musicxml) and [MEI Autumn Leaves](https://2705093v.github.io/MCA-2024/Week3/autumnleavesweek3.mei)|
-| [Week 4](https://2705093v.github.io/MCA-2024/Week4/Week4.html) | fujhgjdfk |
-| [Week 5](https://2705093v.github.io/MCA-2024/Week5/Week5.html) | fujhgjdfk |
-| [Week 7](https://2705093v.github.io/MCA-2024/Week7/Week7.html) | fujhgjdfk |
-| [Week 8](https://2705093v.github.io/MCA-2024/Week8/Week8.html) | fujhgjdfk |
-| [Week 9](https://2705093v.github.io/MCA-2024/week9/week9.html) | fujhgjdfk |
-| [Week 10](https://2705093v.github.io/MCA-2024/Week10/week10.html) | fujhgjdfk |
+| [Week 3](https://2705093v.github.io/MCA-2024/Week3/week3.html) | [Music XML for Autumn Leaves Week 3 Version](https://2705093v.github.io/MCA-2024/Week3/Autumn_Leaves_in_C_week_3.musicxml) and [MEI Autumn Leaves Week 3 Version](https://2705093v.github.io/MCA-2024/Week3/autumnleavesweek3.mei)|
+| [Week 4](https://2705093v.github.io/MCA-2024/Week4/Week4.html) | All files can be found in the write-up for Week 4. |
+| [Week 5](https://2705093v.github.io/MCA-2024/Week5/Week5.html) | [MEI Autumn Leaves Week 5 Version](https://2705093v.github.io/MCA-2024/Week5/autumnleavesweek5.mei) |
+| [Week 7](https://2705093v.github.io/MCA-2024/Week7/Week7.html) | [MEI Autumn Leaves Week 7 Version](https://2705093v.github.io/MCA-2024/Week7/autumnleavesweek7.mei) |
+| [Week 8](https://2705093v.github.io/MCA-2024/Week8/Week8.html) | No files, just write up. |
+| [Week 9](https://2705093v.github.io/MCA-2024/week9/week9.html) | No files, just write up. |
+| [Week 10](https://2705093v.github.io/MCA-2024/Week10/week10.html) | No files, just write up. |
 
 <br> Here are the extra files outside of weekly labs that can be accessed:
 <br>[metaRAW](https://2705093v.github.io/MCA-2024/metaRAW.html)
