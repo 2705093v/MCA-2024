@@ -1,11 +1,11 @@
 <script src="https://rawcdn.githack.com/oscarmorrison/md-page/master/md-page.js"></script><noscript>
+The notebook for week 10 can be accessed [here]()
 ## Similarity matrix (from tasks 6.1 and 6.2):
 <br>Task 6.1:
 <br>![6 1 matrix](https://github.com/user-attachments/assets/bd796fbc-c9d9-4345-b9f2-6907ec1b9a92)
 <br>Task 6.2:
 <br>![6 2 matrix](https://github.com/user-attachments/assets/64993b53-6bd2-4239-8a7f-33909ad3eaca)
 <br>
-The notebook for week 10 can be accessed here
 ## Pictures of scores before and after polyphonic transcription
 You may need to zoom out on your browser, apologies!
 <br> Before:
