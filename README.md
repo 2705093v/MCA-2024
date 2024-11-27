@@ -13,4 +13,4 @@ Here you can find a guide to each week's write up and what documents or files yo
 <br>Since I used markdown for all of my labs, I did have some trouble at the end making sure that all appeared correctly format-wise. Luckily, I stumbled across a very helpful tool that allows you to write in markdown in an html file!
 This is why a line of code starting with script appears at the top of all of my html files if you look at the code. 
 ![scriptline](https://github.com/user-attachments/assets/3231c67b-befe-407d-b095-aa2c389918a9)
-This line of code was created by Oscar Morrison, more information can be found [here.](https://github.com/oscarmorrison/md-page)
+<br>This line of code was created by Oscar Morrison, more information can be found [here.](https://github.com/oscarmorrison/md-page)
