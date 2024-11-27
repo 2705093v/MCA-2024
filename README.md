@@ -11,4 +11,5 @@ Here you can find a guide to each week's write up and what documents or files yo
 <br>[Week 9](https://2705093v.github.io/MCA-2024/week9/week9.html) | 
 <br>[Week 10](https://2705093v.github.io/MCA-2024/Week10/Week10.html) |
 Since I used markdown for all of my labs, I did have some trouble at the end making sure that all appeared correctly format-wise. Luckily, I stumbled across a very helpful tool that allows you to write in markdown in an html file!
-This is why this line "<script src="https://rawcdn.githack.com/oscarmorrison/md-page/master/md-page.js"></script><noscript>" appears at the top of all of my html files if you look at the code. This line of code was created by Oscar Morrison, more information can be found [here.](https://github.com/oscarmorrison/md-page)
+This is why a line of code starting with script appears at the top of all of my html files if you look at the code. 
+This line of code was created by Oscar Morrison, more information can be found [here.](https://github.com/oscarmorrison/md-page)
